@@ -1,2 +1,2 @@
 # Face-Mask-detector
-Detector of masks on people's faces
+conda create --name <env> --file requirements.txt
